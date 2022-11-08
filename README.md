@@ -11,7 +11,7 @@
   <img align="center" alt_"goularte-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt_"goularte-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt_"goularte-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" height="500" alt_"goularte-stitch" src="https://giphy.com/embed/jbR2y4E6CpSis33cXO">
+  <img align="right" height="500" alt_"goularte-stitch" src="https://imgs.search.brave.com/L3emoP7jJY_K0PQp6RzYEXHuat-QeLH0WBb5GG13pFw/rs:fit:635:242:1/g:ce/aHR0cHM6Ly93b3Jk/bGVzc3RlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzAyL1NjaWVudGlz/dHMtZ3JlYXRlc3Qt/ZGlzY292ZXJpZXMt/OC1iaXQtYW5pbWF0/ZWQtR2lmcy03Lmdp/Zg.gif">
 </div>
 
 ##
