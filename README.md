@@ -21,17 +21,9 @@
   <img align="center" alt_"goularte-VSCODE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>
 
-<hr>
+  <hr>
   
-<div><img align="center" height="500" width="100%" alt_"goularte-naruto" src="https://giffiles.alphacoders.com/121/12163.gif"></div>
-
-<hr>
-
   <a href="https://www.instagram.com/gugoularte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/gustavo.goulartecorreia" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gustavo-goularte-4062a2179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-
-  ![Snake animation](https://github.com/ggoulartec/ggoulartec/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
